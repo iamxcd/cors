@@ -1,0 +1,16 @@
+{
+  "name": "xiansongbai/cors",
+  "description": "解决跨域 学习composer",
+  "authors": [
+    {
+      "name": "xiansongbai",
+      "email": "songbai_x@qq.com"
+    }
+  ],
+  "require": {},
+  "autoload": {
+    "psr-4": {
+      "SongBai\\Cors\\": "src/"
+    }
+  }
+}
